@@ -1,1 +1,0 @@
-fetch("http://localhost:8080/unirse").then(console.log('todo salio bien'))
